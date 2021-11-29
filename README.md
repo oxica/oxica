@@ -1,10 +1,11 @@
 ## Hi there, I'm Oksana
 
-- I’m currently working on a lot of different stuff
+- I believe in logic and mathematics
+- Most of all I like to study
 - I’m currently learning everything I can get my hands on
-- I’m looking for help with finding more time in a single day
 - How to reach me: kabk667@gmail.com
 - Fun fact: I love what I do - code and learn, learn and code
+- Any fool can write code that a computer can understand. A good programmer writes human-readable code.
 
 ## My stack and tools
 
