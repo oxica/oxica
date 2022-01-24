@@ -5,7 +5,7 @@
 - I’m currently learning everything I can get my hands on
 - How to reach me: kabk667@gmail.com
 - Fun fact: I love what I do - code and learn, learn and code
-- Any fool can write code that a computer can understand. A good programmer writes human-readable code.
+- A good programmer writes human-readable code.
 
 ## My stack and tools
 
