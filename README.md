@@ -1,3 +1,7 @@
+#!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# STOP WAR IN UKRAINE!!!!!!!!
+#!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 ## Hi there, I'm Oksana
 
 - I believe in logic and mathematics
